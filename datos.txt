@@ -1,0 +1,6 @@
+nombre: John
+apellido: Doe
+altura: 1.73
+edad: 30
+peso: 70
+colorPreferido: azul
